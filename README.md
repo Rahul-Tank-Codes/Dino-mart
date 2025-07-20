@@ -13,10 +13,10 @@ Dino-mart is a full-stack ecommerce CRUD application with a Spring Boot backend 
 ## 🚀 Deployment
 
 ### Backend
-- **Render:** [Backend Deployment Link (to be updated after deployment)]
+- **Render:** [https://dino-mart.onrender.com]
 
 ### Frontend
-- **Netlify/Vercel/Render:** [Frontend Deployment Link (to be updated after deployment)]
+- **Vercel:** [https://dino-mart-frontend.vercel.app]
 
 > 🔗 **Note:** Users only need to visit the **frontend URL**. The React app calls the backend APIs hosted on Render directly without requiring users to run the backend themselves.
 
@@ -30,7 +30,7 @@ Dino-mart is a full-stack ecommerce CRUD application with a Spring Boot backend 
 
 ### Deployment
 - **Render** (Backend)
-- **Netlify / Vercel / Render** (Frontend)
+- **Vercel** (Frontend)
 ## 📁 Project structure
 
 - `/src/main/java` – Java backend source files
